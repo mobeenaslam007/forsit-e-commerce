@@ -15,20 +15,20 @@ Before you begin, ensure you have the following installed on your system:
 ### Installation
 
 1. Clone the repository to your local machine:<br>
-    git clone https://github.com/mobeenaslam007/forsit-e-commerce/
+        git clone https://github.com/mobeenaslam007/forsit-e-commerce/
 
 2. Navigate to the project directory:<br>
-   cd forsit-e-commerce
+       cd forsit-e-commerce
    
 4. Create a virtual environment (optional but recommended):<br>
-   python -m venv venv
+       python -m venv venv
 
 5. Activate the virtual environment:<br>
-   On Windows: venv\Scripts\activate
-   On Mac and linux: venv\Scripts\activate
+       On Windows: venv\Scripts\activate<br>
+       On Mac and linux: venv\Scripts\activate
 
 6. Install the project dependencies:<br>
-   pip install -r requirements.txt
+       pip install -r requirements.txt
 
 7. Run this project using following commannd:
    uvicorn main:app --host 0.0.0.0 --port 8000 --reload
