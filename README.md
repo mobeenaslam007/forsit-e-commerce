@@ -14,20 +14,20 @@ Before you begin, ensure you have the following installed on your system:
 
 ### Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine:<br>
     git clone https://github.com/mobeenaslam007/forsit-e-commerce/
 
-2. Navigate to the project directory:
+2. Navigate to the project directory:<br>
    cd forsit-e-commerce
    
-4. Create a virtual environment (optional but recommended):
+4. Create a virtual environment (optional but recommended):<br>
    python -m venv venv
 
-5. Activate the virtual environment:
+5. Activate the virtual environment:<br>
    On Windows: venv\Scripts\activate
    On Mac and linux: venv\Scripts\activate
 
-6. Install the project dependencies:
+6. Install the project dependencies:<br>
    pip install -r requirements.txt
 
 7. Run this project using following commannd:
