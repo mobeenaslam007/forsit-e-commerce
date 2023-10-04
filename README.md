@@ -33,6 +33,9 @@ Before you begin, ensure you have the following installed on your system:
 7. Run this project using following commannd:<br>
    uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
+8. Visit following URL for a API documentation:<br>
+   http://0.0.0.0:8000/docs
+
 
 ## API Endpoints
 
